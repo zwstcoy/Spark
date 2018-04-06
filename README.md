@@ -1,3 +1,3 @@
 # Spark
 PageRank
-KNN
+JoinTable
